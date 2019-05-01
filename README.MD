@@ -4,7 +4,7 @@ REM Author:        Richard W. Allen
 REM Version:       V1.1
 REM Date Started:  March 26, 2003
 REM Date End:      June 30, 2009
-REM Webpage:       http://richard-allen.homelinux.com
+REM Webpage:       https://www.richardallenonline.com
 REM IDE:           QBX 7.1
 REM Compiler:      QBX 7.1
 REM Langage:       QBasic 7.1
